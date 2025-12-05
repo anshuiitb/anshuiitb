@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/anshuiitb?label=Follow&style=social)](https://github.com/anshuiitb)
 [![Last Commit](https://img.shields.io/github/last-commit/anshuiitb/anshuiitb?style=flat-square)](https://github.com/anshuiitb)
-[![Email](https://img.shields.io/badge/Email-anshuyadav1223334444%40gmail.co-red?style=flat-square)](mailto:anshuyadav1223334444@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anshuyadav1223334444%40gmail.com-red?style=flat-square)](mailto:anshuyadav1223334444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshu--yadav--230845280-blue?style=flat-square)](https://www.linkedin.com/in/anshu-yadav-230845280/)
 
 ---
